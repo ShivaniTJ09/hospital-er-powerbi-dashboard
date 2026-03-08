@@ -191,13 +191,11 @@ The dataset contains information on:
 ## Author
 
 Shivani Jadhav
+
 Aspiring Data Analyst | Machine Learning Researcher
 
 
 ---
 
-## Author
 
-Shivani Jadhav
-Aspiring Data Analyst | Machine Learning Researcher
 
