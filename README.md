@@ -183,6 +183,9 @@ The dataset contains information on:
 
 ## Dashboard Preview
 
+<img width="1627" height="930" alt="image" src="https://github.com/user-attachments/assets/7da9a3d0-ac70-4542-9b16-00fd5766e61b" />
+
+
 ---
 
 ## Author
